@@ -1,0 +1,9 @@
+﻿<div>
+	<p>Bienvenido a Aseisthmus, tu cuenta ha sido activada.</p>
+	<p>Te informo que a partir de la siguiente quincena, se empezará a rebajar el ahorro personal.</p>
+	</br>
+	 <a href="https://chat.whatsapp.com/KFbFr9RHRHo4AgtCxLy9vY">Grupo de WhatsApp</a>
+	 </br>
+	<p>Si tienes alguna pregunta o necesitas asistencia adicional, no dudes en contactarnos.</p>
+	<p>¡Gracias!</p>
+</div>

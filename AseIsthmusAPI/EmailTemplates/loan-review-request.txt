@@ -1,0 +1,5 @@
+﻿<div>
+	<p>Hola,</p>
+	<p>Favor hacer revisión del crédito solicitado por el asociado <b>{userFullName}</b> con el código de crédito <b>{creditRequestId}</b>.</p>	
+	<p>¡Gracias!</p>
+</div>

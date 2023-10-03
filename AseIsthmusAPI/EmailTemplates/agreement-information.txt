@@ -1,0 +1,7 @@
+﻿<div>
+	<p>Estimado Administrador</p>
+	<p>Quisiera informarle que el usuario <b>{userFullName}</b> con el código de empleado <b>{employeeCode}</b> ha mostrado interés en el convenio con <b>{agreementName}</b></p>
+	<p>Por favor, ponte en contacto con el usuario lo antes posible para proporcionarle más detalles al correo: <b>{userEmail}</b>.</p>
+	<p>Gracias por tu atención y pronta acción.</p>
+	<p>Saludos cordiales</p>
+</div>

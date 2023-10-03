@@ -1,0 +1,5 @@
+﻿<div>
+	<p>Hola,</p>
+	<p>Le informo que el crédito a nombre de <b>{userFullName}</b> con el código de crédito <b>{creditRequestId}</b> ha sido <b>{status}</b>.</p>	
+	<p>¡Gracias!</p>
+</div>

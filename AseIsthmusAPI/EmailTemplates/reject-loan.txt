@@ -1,0 +1,7 @@
+﻿<div>
+	<p>Hola {associateName}</p>
+	<p>Lamentamos informarle que su solicitud de préstamo no ha sido aprobada. Comprendemos que esto pueda generarle preocupación o dudas, por lo que estamos aquí para brindarle toda la información que necesite.</p>
+	<p>Queremos recordarle que la aprobación de un préstamo está sujeta al monto disponible de acuerdo a sus ahorros.</p>
+	<p>Si tiene alguna pregunta o necesita aclarar algún aspecto en particular, no dude en ponerse en contacto con nosotros.</p>
+	<p>Saludos cordiales</p>
+</div>

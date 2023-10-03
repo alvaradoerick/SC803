@@ -1,0 +1,7 @@
+﻿<div>
+	<p>Hola,</p>
+	<p>Gracias por tu interés de ser parte de ASEISTHMUS!</p>
+	 <p>Tu cuenta está en revisión para asegurarnos que cumplas con el tiempo requerido que son 3 meses de laborar en la empresa. </p>
+	<p>Si tienes alguna pregunta o necesitas asistencia adicional, no dudes en contactarnos.</p>
+	<p>¡Gracias!</p>
+</div>

@@ -1,0 +1,7 @@
+﻿<div>
+	<p>Hola {associateName}
+	<p>Adjunto encontrará el Pagaré. Le agradeceríamos que se tome unos minutos para llenar los datos necesarios en el documento adjunto y nos lo envíe de vuelta.</p>
+	<p>Si tiene alguna pregunta o necesita asistencia adicional, no dude en contactarnos. Estamos aquí para ayudarle.</p>
+	<p>Esperamos recibir el Pagaré completo y firmado a la brevedad posible.</p>
+	<p>Saludos cordiales</p>
+</div>

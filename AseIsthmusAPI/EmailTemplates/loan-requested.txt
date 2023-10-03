@@ -1,0 +1,7 @@
+﻿<div>
+	<p>Estimado Administrador</p>
+	<p>Una solicitud de préstamo por el asociado {userFullName} ha sido generada.</p>
+	<p>Por favor, ponte en contacto con el usuario lo antes posible para proporcionarle más detalles al correo: <b>{userEmail}</b>.</p>
+	<p>Gracias por tu atención y pronta acción.</p>
+	<p>Saludos cordiales</p>
+</div>
